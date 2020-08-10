@@ -1,0 +1,53 @@
+/*
+font-family: 'Patua One', cursive;
+font-family: 'Fira Sans', sans-serif;
+*/
+
+  body {
+    background-image: url("assets/back2.png"); 
+    background-color: rgb(255, 255, 255);
+    background-size: cover; 
+    }
+  
+  h1 {
+    font-family: 'Patua One', sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    }
+
+  h2 {
+    font-family: 'Patua One', sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    }
+  
+  h3 {
+    font-family: 'Patua One', sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+    }
+
+  .p1 {
+    font-family: 'Fira Sans', sans-serif;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 400px;
+    } 
+
+  .p2 {
+    color: rgb(182, 46, 92);
+    font-family: 'Fira Sans', sans-serif;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 400px;
+  }
